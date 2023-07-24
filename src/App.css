@@ -83,6 +83,8 @@ ul li:before {
   background-color: #eee;
   padding: 10px 25px 10px 15px;
   position: relative;
+  font-size: 14;
+  font-weight: bold;
 }
 .arrow {
   border: solid black;
