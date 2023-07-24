@@ -1,0 +1,59 @@
+.project-wrapper {
+  display: flex;
+  gap: 70px;
+}
+.project-period {
+  font-size: 16px;
+}
+
+.project-period-text {
+  font-size: 12px;
+  background-color: #000;
+  border-radius: 20px;
+  text-align: center;
+  color: white;
+  padding: 5px 0px;
+  margin-top: 10px;
+  width: 74px;
+}
+
+.project-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+.project-link {
+  margin-top: 5px;
+  font-size: 14px;
+}
+
+.project-stacks-label {
+  margin-top: 25px;
+  font-size: 12px;
+  color: #999;
+}
+
+.project-stacks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 5px;
+  align-items: flex-start;
+}
+
+.stack-item {
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: auto;
+}
+.stack-empty {
+  border: 1px solid #999;
+  border-radius: 5px;
+  padding: 5px 10px;
+  width: auto;
+  color: #999;
+}
+
+.project-frameworks {
+  margin-bottom: 10px;
+}
